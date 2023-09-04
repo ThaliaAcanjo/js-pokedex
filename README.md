@@ -1,2 +1,3 @@
-# js-pokedex
+# Pokedex
  
+Construindo uma Pokédex com JavaScript
